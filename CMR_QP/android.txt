@@ -1,0 +1,3 @@
+title=CMR定量灌注计算器
+author=Limour
+orientation=portrait
